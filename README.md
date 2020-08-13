@@ -19,7 +19,7 @@ The CSS style should follow BEM conventions.
 - [x] The masthead
 - [x] Main Navigation
 - [x] Interest links
-- [ ] Preferences dropdown
+- [x] Preferences dropdown
 - [ ] Search input
 - [ ] Articles
 - [ ] Main media queries
