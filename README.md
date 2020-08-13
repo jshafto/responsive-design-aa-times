@@ -17,7 +17,8 @@ The CSS style should follow BEM conventions.
 
 ## Project Status
 - [x] The masthead
-- [ ] Internet links
+- [x] Main Navigation
+- [x] Interest links
 - [ ] Preferences dropdown
 - [ ] Search input
 - [ ] Articles

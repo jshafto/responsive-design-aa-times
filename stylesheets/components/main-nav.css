@@ -1,0 +1,10 @@
+.navigation__links-list {
+    display: flex;
+    flex-direction: row;
+    /* margin: 0 auto; */
+    justify-content: center;
+}
+
+.navigation__link {
+    padding: 10px 10px;
+}
