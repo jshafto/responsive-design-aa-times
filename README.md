@@ -20,7 +20,7 @@ The CSS style should follow BEM conventions.
 - [x] Main Navigation
 - [x] Interest links
 - [x] Preferences dropdown
-- [ ] Search input
+- [x] Search input
 - [ ] Articles
 - [ ] Main media queries
 - [ ] Bonus Slide-in Sidebar
